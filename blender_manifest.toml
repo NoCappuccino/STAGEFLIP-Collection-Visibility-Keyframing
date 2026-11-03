@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "stageflip"
+version = "1.0.0"
+name = "STAGEFLIP"
+tagline = "Collection visibility keyframing. Made by Cappuccino Digital"
+maintainer = "Cappuccino Digital"
+type = "add-on"
+tags = ["Animation", "Scene"]
+blender_version_min = "5.2.3"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", ".git/", "*.pyc"]
